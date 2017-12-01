@@ -1,0 +1,11 @@
+C:\Users\Honza\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\Honza\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\Honza\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\Honza\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\Honza\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\Honza\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
